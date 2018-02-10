@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPENVPN WAN"
+    id="a3170bb2-0bbf-4169-a7ff-a10e170fda6a"
+    documentation="Network&#xD;&#xA;Mask: 255.255.255.0&#xD;&#xA;GW: 10.9.8.1&#xD;&#xA;DNS 1: 188.188.188.1&#xD;&#xA;DNS 2: 188.188.188.1"/>

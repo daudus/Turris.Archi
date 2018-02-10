@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="lo"
+    id="10b129c8-cd59-424e-8863-7e721faf0e35"
+    documentation="network interface&#xD;&#xA;loopback"/>

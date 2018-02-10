@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IPv4 WAN"
+    id="0504c3f9-3d27-4bb0-8f2b-1c5455573d94"
+    documentation="Network&#xD;&#xA;Mask: 255.255.255.0&#xD;&#xA;GW: 188.188.188.1&#xD;&#xA;DNS 1: 188.188.188.1&#xD;&#xA;DNS 2: 188.188.188.1"/>

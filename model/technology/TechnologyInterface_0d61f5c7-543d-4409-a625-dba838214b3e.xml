@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="loopback"
+    id="0d61f5c7-543d-4409-a625-dba838214b3e"
+    documentation="logical interface&#xD;&#xA;127.0.0.1&#xD;&#xA;255.0.0.0&#xD;&#xA;"/>

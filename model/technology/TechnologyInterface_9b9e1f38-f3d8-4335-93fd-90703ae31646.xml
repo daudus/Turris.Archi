@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="br-lan"
+    id="9b9e1f38-f3d8-4335-93fd-90703ae31646"
+    documentation="logical interface&#xD;&#xA;bridge&#xD;&#xA;&#xD;&#xA;MAC-Adresa: D8:58:D7:00:8E:11&#xD;&#xA;IPv4: 192.168.1.1/24&#xD;&#xA;MASK: 255.255.255.0&#xD;&#xA;IPv6: fdc1:2ff5:2cfd::1/60&#xD;&#xA;&#xD;&#xA;DHCP: 100-150&#xD;&#xA;"/>

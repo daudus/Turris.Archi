@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tun0 (10.9.8.2)"
+    id="a4dba873-3787-4788-8a26-17f381a20090"
+    documentation="network interface&#xD;&#xA;openvpn&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;mask: 255.0.0.0`"/>

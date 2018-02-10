@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eth1"
+    id="1903ab0a-c67d-4058-a4db-8e416f737546"
+    documentation="network interface"/>

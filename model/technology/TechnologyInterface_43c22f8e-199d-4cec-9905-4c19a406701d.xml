@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wan6 (@wan)"
+    id="43c22f8e-199d-4cec-9905-4c19a406701d"
+    documentation="logical interface&#xD;&#xA;dhcpv6"/>

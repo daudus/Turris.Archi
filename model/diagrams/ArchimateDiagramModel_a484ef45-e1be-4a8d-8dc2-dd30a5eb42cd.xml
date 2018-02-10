@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GateWay"
+    id="a484ef45-e1be-4a8d-8dc2-dd30a5eb42cd"
+    viewpoint="technology">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="30836e08-98ea-4e4c-a05e-4fd1bafb2d3e"
+      type="1">
+    <bounds
+        x="300"
+        y="36"
+        width="397"
+        height="289"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_e2f3bd99-29e7-40ce-9c00-3d7e70124978.xml#e2f3bd99-29e7-40ce-9c00-3d7e70124978"/>
+  </children>
+</archimate:ArchimateDiagramModel>

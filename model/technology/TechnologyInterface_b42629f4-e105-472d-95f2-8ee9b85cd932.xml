@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wan"
+    id="b42629f4-e105-472d-95f2-8ee9b85cd932"
+    documentation="logical interface&#xD;&#xA;dhcp&#xD;&#xA;&#xD;&#xA;default gateway&#xD;&#xA;MAC-Adresa: D8:58:D7:00:8E:12&#xD;&#xA;IPv4: 188.188.188.5/24"/>
